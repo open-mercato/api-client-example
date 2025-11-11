@@ -51,7 +51,7 @@ A minimal Next.js + TypeScript application that calls the Open Mercato API via [
 | `npm run dev` | Starts the Next.js dev server with hot reload. |
 | `npm run build` | Creates an optimized production build. |
 | `npm start` | Runs the production server (after `npm run build`). |
-| `npm run lint` | Lints the project with `next lint`. |
+| `npm run lint` | Lints the project with ESLint (flat config powered by `eslint-config-next`). |
 | `npm run type-check` | Runs `tsc --noEmit` for CI-friendly type safety. |
 
 ## Next steps
