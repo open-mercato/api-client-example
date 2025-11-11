@@ -1,14 +1,23 @@
 {
   "name": "api-client-example",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Sample Next.js + TypeScript app that lists deals with @open-mercato/client.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx --max-warnings=0",
+    "type-check": "tsc --noEmit"
   },
-  "keywords": [],
+  "keywords": [
+    "nextjs",
+    "open-mercato",
+    "api"
+  ],
   "author": "",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
   "dependencies": {
     "@open-mercato/client": "^0.3.3",
     "next": "^16.0.1",
