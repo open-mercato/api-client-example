@@ -1,3 +1,26 @@
+<p align="center">
+  <img src=".assets/open-mercato.svg" alt="Open Mercato logo" width="160" />
+</p>
+
+<p align="center">
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white" alt="Next.js 16" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white" alt="TypeScript 5.9" />
+  </a>
+  <a href="https://nodejs.org/en">
+    <img src="https://img.shields.io/badge/Node.js-18.18%2B-339933?logo=node.js&logoColor=white" alt="Node.js 18.18+" />
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License" />
+  </a>
+</p>
+
+<p align="center">
+  <img src=".assets/screenshot.png" alt="Screenshot of the Open Mercato deals demo" width="900" />
+</p>
+
 # Open Mercato Deals Demo
 
 A minimal Next.js + TypeScript application that calls the Open Mercato API via [`@open-mercato/client`](https://www.npmjs.com/package/@open-mercato/client) and renders the latest deals inside a simple React page.
