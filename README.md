@@ -1,3 +1,5 @@
+> **Archived (October 2026).** No longer maintained and may not match the current API. See the documentation at https://docs.openmercato.com.
+
 <p align="center">
   <img src=".assets/open-mercato.svg" alt="Open Mercato logo" width="160" />
 </p>
